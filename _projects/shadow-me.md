@@ -4,7 +4,7 @@ description: "A seven minute long animated movie with music by composer Pia Silv
 project_date: 2003-12-01T00:00:00.000Z
 project_to_date:
 list: true
-main_image_path: "/assets/shadow.jpg"
+main_image_path: "/assets/shadow me.jpg"
 video_embed: '<iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/Q4eCsQmbquQ?rel=0" frameborder="0" allowfullscreen></iframe>'
 images:
   - image_path:
