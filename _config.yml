@@ -1,5 +1,5 @@
 # External gems
-gems:
+plugins:
   - jekyll-sitemap
 
 exclude:
@@ -17,19 +17,15 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "http://www.example.com"
 logo: "/assets/logo.png"
-email: neil@eyedivision.com
+email: neil@neilcsmith.net
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
 permalink: pretty
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  #production: "https://images.weserv.nl?url=ssl:www.neilcsmith.net"
 
 # Collections
 collections:
@@ -70,14 +66,14 @@ defaults:
 social:
   - name: Twitter
     icon: twitter
-    username: EyeDivision
-    url: https://twitter.com/EyeDivision
-    desc: Follow us on Twitter
+    username: neilcsmith_net
+    url: https://twitter.com/neilcsmith_net
+    desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: eyedivision
+    username:
     url: 
     desc: Like us on Facebook
     share: true
